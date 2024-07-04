@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.slick-slide > div {
+    max-width: 1024px;
+    margin: 0 2px;
+    overflow: hidden;
+}
